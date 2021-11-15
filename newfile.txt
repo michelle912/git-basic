@@ -1,0 +1,4 @@
+What is the difference between add, commit, and push? 
+add: Stage the modified files to be committed later. 
+commit: Save/ commit files that are added with the add command to the local repository, also creates a commit in the history
+push: Pushes the changes to the remote repository
